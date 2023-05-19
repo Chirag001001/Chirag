@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **nodejs,pinescript,MongoDB**
 
-- 📝 I regularly write articles on [technical analysis for stocks and crypto currencies](technical analysis for stocks and crypto currencies)
+- 📝 I regularly write articles on (technical analysis for stocks and crypto currencies)
 
 - 💬 Ask me about **cpp,python,react,pinescript,sql**
 
