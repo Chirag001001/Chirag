@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chirag-chadha-1777b8244" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="chirag-chadha-1777b8244" height="30" width="40" /></a>
 <a href="https://instagram.com/chirag17___" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="chirag17___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chiragchadha231" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="chiragchadha231" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chiragchadha231" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="chiragchadha231" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
